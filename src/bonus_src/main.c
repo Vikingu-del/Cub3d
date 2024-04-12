@@ -6,7 +6,7 @@
 /*   By: eseferi <eseferi@student.42wolfsburg.de    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/01/15 16:32:02 by ipetruni          #+#    #+#             */
-/*   Updated: 2024/02/29 11:54:58 by eseferi          ###   ########.fr       */
+/*   Updated: 2024/04/12 14:13:49 by eseferi          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -24,7 +24,7 @@ void	check_args(int argc, char *argv[])
 		exit_program(NULL, EXIT_FAILURE, WRONG_NUM_OF_ARGS);
 	if (ft_strncmp(argv[1] + ft_strlen(argv[1]) - 4, ".cub", 4))
 		exit_program(NULL, EXIT_FAILURE, WRONG_FILE_EXT);
-	if (ft_strncmp(argv[1], "maps/", 5))
+	if (ft_strncmp(argv[1], "maps/bonus_maps/", 16))
 		exit_program(NULL, EXIT_FAILURE, WRONG_FILE_LOC);
 	if (ft_strlen(argv[1]) < 10)
 		exit_program(NULL, EXIT_FAILURE, WRONG_FILE_NAMING);

@@ -1,11 +1,11 @@
 
-NO ./textures/bonus_text/walls/telep.xpm
-SO ./textures/bonus_text/walls/telep.xpm
+NO ./textures/bonus_text/walls/cactus.xpm
+SO ./textures/bonus_text/walls/cactus.xpm
 WE ./textures/bonus_text/walls/telep.xpm
 EA ./textures/bonus_text/walls/telep.xpm
 
-F ./textures/bonus_text/walls/stone4.xpm
-C ./textures/bonus_text/walls/stone4.xpm
+F ./textures/bonus_text/walls/arc.xpm
+C ./textures/bonus_text/walls/eagle.xpm
 
 
 1111211111111111111111111111111111111
