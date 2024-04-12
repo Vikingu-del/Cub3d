@@ -87,7 +87,7 @@ Raycast Theory: Video Tutorial https://www.youtube.com/watch?v=NbSee-XM7WA
 
 ## Contacts
 
-For any inquiries or further discussion, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/erik-seferi-393438202/). You can also reach me via email at `rk.seferi[at]gmail[dot]com`.
+For any inquiries or further discussion, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/erik-seferi-393438202/). You can also reach me via email at `rk.seferi@gmail.com`.
 
 ## Lincese
 
